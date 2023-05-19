@@ -1,1 +1,3 @@
-javascipt
+function alert1() {
+  alert("Sent! Thank you for the feedback!");
+}
